@@ -48,7 +48,7 @@ Welcome to Sprunki Phase 4, an innovative iteration in the Sprunki series that f
 - **Adaptive Music System**: Evolving soundscapes based on player creativity
 
 ## Creative Gameplay
-
+![preview](assets/images/preview.jpg)
 ### Core Experience
 1. **Sound Exploration**
    - Discover unique sound combinations
